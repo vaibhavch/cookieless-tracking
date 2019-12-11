@@ -1,0 +1,2 @@
+AuthName "device"
+AuthUserFile "/home1/vaibhav/.htpasswds/device/passwd"
